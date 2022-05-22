@@ -1,0 +1,21 @@
+version: "1.0"
+services:
+  rizoel:
+    build: .
+    environment:
+      API_ID: $API_ID
+      API_HASH: $API_HASH
+      ALIVE_PIC: $ALIVE_PIC
+      CMD_HNDLR: $CMD_HNDLR
+      BOT_TOKEN: $BOT_TOKEN
+      BOT_TOKEN2: $BOT_TOKEN2
+      BOT_TOKEN3: $BOT_TOKEN3
+      BOT_TOKEN4: $BOT_TOKEN4
+      BOT_TOKEN5: $BOT_TOKEN5
+      BOT_TOKEN6: $BOT_TOKEN6
+      BOT_TOKEN7: $BOT_TOKEN7
+      BOT_TOKEN8: $BOT_TOKEN8
+      BOT_TOKEN9: $BOT_TOKEN9
+      BOT_TOKEN10: $BOT_TOKEN10
+      SUDO_USER: $SUDO_USER
+      OWNER_ID: $OWNER_ID
